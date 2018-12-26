@@ -47,6 +47,7 @@ _______________________________________________________
 Additional notes:
 
 * Course ranking
+
 CS courses:
 488 (Graphics) <= 475 (Computational Linear Algebra) <= 456 (Networks) <= 485 (Machine Learning) <= 451 (Data Intensive Distributed Computing) <= 448 (Database Systems) < 454 (Distributed Systems) < 458 (Security) <= 452 (Trains) < 462 (Formal Languages and Parsing) <= 466 (Algorithms) = 444 (Compilers) = 442 (Programming Languages)
 
@@ -60,6 +61,7 @@ PMATH courses:
 440 (Analytic Number Theory) < 464 (Algebraic Geometry) <= 467 (Algebraic Topology) 445 (Representation of Finite Groups) <= 446 (Commutative Algebra) = 441 (Algebraic Number Theory) < 453 (Functional Analysis) = 451 (Measure Theory) = 450 (Lebesgue Integration) < 433 (Model Theory)
 
 * Offerings by term
+
 3A (Winter)
 PMATH 467, 451, 450, 446, 441, 365
 CO 430, 444, 452, 463
